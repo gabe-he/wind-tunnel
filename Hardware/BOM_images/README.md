@@ -1,0 +1,59 @@
+# BOM Images
+
+This directory contains images for the BOM components.
+
+| BOM/CAD Name | Preview | Filename | Comment |
+|------|---------|----------|---------|
+| CCoreSupport | [![CCoreSupport](CCoreSupport.png)](CCoreSupport.png) | [CCoreSupport.png](CCoreSupport.png) | |
+| CElecBox | [![c_elecbox](c_elecbox.png)](c_elecbox.png) | [c_elecbox.png](c_elecbox.png) | |
+| CMesh | [![CMesh](CMesh.png)](CMesh.png) | [CMesh.png](CMesh.png) | |
+| ContractionCore | [![ContractionCore](ContractionCore.png)](ContractionCore.png) | [ContractionCore.png](ContractionCore.png) | |
+| DElecBox | [![diff_electbox](diff_electbox.png)](diff_electbox.png) | [diff_electbox.png](diff_electbox.png) | |
+| DFMain | [![DFMain](DFMain.png)](DFMain.png) | [DFMain.png](DFMain.png) | |
+| DS001 | [![DSupport](DSupport.png)](DSupport.png) | [DSupport.png](DSupport.png) | |
+| DWheel | [![wheels](wheels.png)](wheels.png) | [wheels.png](wheels.png) | |
+| Fan | [![Fan](Fan.png)](Fan.png) | [Fan.png](Fan.png) | |
+| FanConnector | [![FanConnector](FanConnector.png)](FanConnector.png) | [FanConnector.png](FanConnector.png) | |
+| FanMesh0 | [![FanMesh0](FanMesh0.png)](FanMesh0.png) | [FanMesh0.png](FanMesh0.png) | |
+| FanMesh1 | [![FanMesh1](FanMesh1.png)](FanMesh1.png) | [FanMesh1.png](FanMesh1.png) | |
+| Handle | [![Handle](Handle.png)](Handle.png) | [Handle.png](Handle.png) | |
+| Latch | [![Latch](Latch.png)](Latch.png) | [Latch.png](Latch.png) | |
+| LoadCellAmp | [![LoadCellAmpImage](LoadCellAmpImage.png)](LoadCellAmpImage.png) | [LoadCellAmpImage.png](LoadCellAmpImage.png) | |
+| Paint | [![AcrylicPaint](AcrylicPaint.png)](AcrylicPaint.png) | [AcrylicPaint.png](AcrylicPaint.png) | |
+| RaspberryPi4 | [![RaspberryPi4](RaspberryPi4.png)](RaspberryPi4.png) | [RaspberryPi4.png](RaspberryPi4.png) | |
+| RaspberryPiPico | [![RaspberryPiPicoImage](RaspberryPiPicoImage.png)](RaspberryPiPicoImage.png) | [RaspberryPiPicoImage.png](RaspberryPiPicoImage.png) | |
+| Screws | [![screws](screws.png)](screws.png) | [screws.png](screws.png) | |
+| Sealant | [![Sealant](Sealant.png)](Sealant.png) | [Sealant.png](Sealant.png) | |
+| Sealer | [![Sealer](Sealer.png)](Sealer.png) | [Sealer.png](Sealer.png) | |
+| SmartPiTouchPro3 | [![SmartPiTouchPro3](SmartPiTouchPro3.png)](SmartPiTouchPro3.png) | [SmartPiTouchPro3.png](SmartPiTouchPro3.png) | |
+| SmokeCharger | [![usbc](usbc.png)](usbc.png) | [usbc.png](usbc.png) | |
+| SmokeCopper | [![smokecopper](smokecopper.png)](smokecopper.png) | [smokecopper.png](smokecopper.png) | |
+| SmokeGenerator | [![fogmachine](fogmachine.png)](fogmachine.png) | [fogmachine.png](fogmachine.png) | |
+| SmokeTube | [![smoketube](smoketube.png)](smoketube.png) | [smoketube.png](smoketube.png) | |
+| Spacers | [![Spacers](Spacers.png)](Spacers.png) | [Spacers.png](Spacers.png) | |
+| TElecBox | [![test_elecbox](test_elecbox.png)](test_elecbox.png) | [test_elecbox.png](test_elecbox.png) | |
+| TouchDisplay2 | [![TouchDisplay2](TouchDisplay2.png)](TouchDisplay2.png) | [TouchDisplay2.png](TouchDisplay2.png) | |
+| TPAluBottom | [![TPAluBottom_Image](TPAluBottom_Image.png)](TPAluBottom_Image.png) | [TPAluBottom_Image.png](TPAluBottom_Image.png) | |
+| TPBottom | [![TPBottom1x12](TPBottom1x12.png)](TPBottom1x12.png) | [TPBottom1x12.png](TPBottom1x12.png) | |
+| TPBottomSupport | [![TPBottomSupport](TPBottomSupport.png)](TPBottomSupport.png) | [TPBottomSupport.png](TPBottomSupport.png) | |
+| TPDC12V | [![dc12v](dc12v.png)](dc12v.png) | [dc12v.png](dc12v.png) | |
+| TPDC5V | [![TPDC5V](TPDC5V.png)](TPDC5V.png) | [TPDC5V.png](TPDC5V.png) | |
+| TPDC7V5 | [![TPDC7V5](TPDC7V5.png)](TPDC7V5.png) | [TPDC7V5.png](TPDC7V5.png) | |
+| TPDrag0 | [![TPDrag0](TPDrag0.png)](TPDrag0.png) | [TPDrag0.png](TPDrag0.png) | |
+| TPDrag1 | [![TPDrag1](TPDrag1.png)](TPDrag1.png) | [TPDrag1.png](TPDrag1.png) | |
+| TPDrag2 | [![TPDrag2](TPDrag2.png)](TPDrag2.png) | [TPDrag2.png](TPDrag2.png) | |
+| TPHRod | [![TPHRodImage](TPHRodImage.png)](TPHRodImage.png) | [TPHRodImage.png](TPHRodImage.png) | |
+| TPHVBearing | [![TPHVBearingImage](TPHVBearingImage.png)](TPHVBearingImage.png) | [TPHVBearingImage.png](TPHVBearingImage.png) | |
+| TPLoadCell | [![TPLoadCellImage](TPLoadCellImage.png)](TPLoadCellImage.png) | [TPLoadCellImage.png](TPLoadCellImage.png) | |
+| TPLoadCellSpec1 | [![TPLoadCellSpec1](TPLoadCellSpec1.jpg)](TPLoadCellSpec1.jpg) | [TPLoadCellSpec1.jpg](TPLoadCellSpec1.jpg) | |
+| TPLoadCellSpec2 | [![TPLoadCellSpec2](TPLoadCellSpec2.jpg)](TPLoadCellSpec2.jpg) | [TPLoadCellSpec2.jpg](TPLoadCellSpec2.jpg) | |
+| TPServo | [![TPServo_Image](TPServo_Image.png)](TPServo_Image.png) | [TPServo_Image.png](TPServo_Image.png) | |
+| TPServoAluBase | [![TPServoAluBase_Image](TPServoAluBase_Image.png)](TPServoAluBase_Image.png) | [TPServoAluBase_Image.png](TPServoAluBase_Image.png) | |
+| TPServoDB | [![TPServoDB_Image](TPServoDB_Image.png)](TPServoDB_Image.png) | [TPServoDB_Image.png](TPServoDB_Image.png) | |
+| TPServoDisc | [![TPServoDisc](TPServoDiscImage.png)](TPServoDiscImage.png) | [TPServoDiscImage.png](TPServoDiscImage.png) | |
+| TPServoFlange | [![TPServoFlangeImage](TPServoFlangeImage.png)](TPServoFlangeImage.png) | [TPServoFlangeImage.png](TPServoFlangeImage.png) | |
+| TPServoSupport | [![TPServoSupport](TPServoSupport.png)](TPServoSupport.png) | [TPServoSupport.png](TPServoSupport.png) | |
+| TPSupport | [![TPSupport2x2](TPSupport2x2.png)](TPSupport2x2.png) | [TPSupport2x2.png](TPSupport2x2.png) | |
+| TPVRod | [![TPVRodImage](TPVRodImage.png)](TPVRodImage.png) | [TPVRodImage.png](TPVRodImage.png) | |
+| TSecBase | [![TSecBase](TSecBase.png)](TSecBase.png) | [TSecBase.png](TSecBase.png) | |
+| Wing | [![wing](wing.png)](wing.png) | [wing.png](wing.png) | |
